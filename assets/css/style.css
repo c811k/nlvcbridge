@@ -19,11 +19,11 @@ hr {
     background: #fad778;
 }
 
-P {
+p, li {
     font-size: 14px
 }
 
-p, h3 {
+p, h3, li {
     letter-spacing: 1px;
 }
 
