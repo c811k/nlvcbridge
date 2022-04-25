@@ -1,4 +1,4 @@
-var deadline = "March 13, 2022 11:30:00 GMT-0800";
+var deadline = "April 24, 2022 11:30:00 GMT-0900";
 
 function getTimeRemaining(endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());
